@@ -1,9 +1,9 @@
 [submodule "scratch"]
 	path = scratch
-	url = https://github.com/golang/
+	url = https://github.com/golang/scratch
 [submodule "oauth2"]
 	path = oauth2
-	url = https://github.com/golang/
+	url = https://github.com/golang/oauth2
 [submodule "sublime-build"]
 	path = sublime-build
 	url = https://github.com/golang/sublime-build
